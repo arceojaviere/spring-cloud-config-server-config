@@ -1,0 +1,4 @@
+com:
+  example:
+    rest-service:
+      message: "Well hello, Neighbour"
